@@ -117,37 +117,18 @@ While a mission statement provides a broad sense of the company's mission and va
 - Foster user engagement and participation in online discussions and forums.
 - Establish thought leadership and expertise within the industry.
 
-### Nintendo Example
+### Nintendo Example Objectives
 
-**Increase Nintendo Switch Sales:**
-- Achieve a 15% increase in Nintendo Switch console sales within the next fiscal year by targeting both existing and new customer segments through strategic marketing campaigns and promotions.
-
-**Expand Market Share in the Mobile Gaming Industry:**
-- Capture a larger share of the mobile gaming market by launching two new mobile game titles and achieving a 20% increase in monthly active users for our existing mobile games.
-
-**Enhance Brand Awareness:**
-- Raise global brand awareness by executing a comprehensive marketing campaign, including partnerships with popular influencers and gaming events, resulting in a 25% increase in brand recognition among target demographics.
-
-**Boost Nintendo Online Subscriptions:**
-- Drive growth in Nintendo Online subscriptions by 10% by offering exclusive content, improved online multiplayer experiences, and targeted incentives for both new and existing subscribers.
-
-**Leverage User-Generated Content (UGC):**
-- Encourage user-generated content creation and sharing by players through social media and streaming platforms, with the aim of reaching 100,000 user-generated content submissions within the year.
-
-**Promote Sustainability Initiatives:**
-- Highlight Nintendo's commitment to sustainability and eco-friendly practices through marketing campaigns and partnerships, increasing consumer perception of the company as environmentally responsible by 20%.
-
-**Strengthen International Market Presence:**
-- Expand into new international markets by localizing games and marketing materials, resulting in a 30% increase in international sales within two years.
-
-**Improve Customer Engagement:**
-- Enhance customer engagement and loyalty by launching a Nintendo loyalty program, with a goal of enrolling one million members within the first year.
-
-**Support Indie Developers:**
-- Foster the indie gaming community by featuring and promoting a curated selection of indie games on the Nintendo eShop, resulting in a 15% increase in indie game sales.
-
-**Data-Driven Decision-Making:**
-- Implement a data analytics strategy to monitor marketing campaign performance and consumer behavior, with the objective of increasing marketing ROI by 10% through optimized marketing spend.
+- **Increase Nintendo Switch Sales:** Achieve a 15% increase in Nintendo Switch console sales within the next fiscal year by targeting both existing and new customer segments through strategic marketing campaigns and promotions.
+- **Expand Market Share in the Mobile Gaming Industry:** Capture a larger share of the mobile gaming market by launching two new mobile game titles and achieving a 20% increase in monthly active users for our existing mobile games.
+- **Enhance Brand Awareness:** Raise global brand awareness by executing a comprehensive marketing campaign, including partnerships with popular influencers and gaming events, resulting in a 25% increase in brand recognition among target demographics.
+- **Boost Nintendo Online Subscriptions:** Drive growth in Nintendo Online subscriptions by 10% by offering exclusive content, improved online multiplayer experiences, and targeted incentives for both new and existing subscribers.
+- **Leverage User-Generated Content (UGC):** Encourage user-generated content creation and sharing by players through social media and streaming platforms, with the aim of reaching 100,000 user-generated content submissions within the year.
+- **Promote Sustainability Initiatives:** Highlight Nintendo's commitment to sustainability and eco-friendly practices through marketing campaigns and partnerships, increasing consumer perception of the company as environmentally responsible by 20%.
+- **Strengthen International Market Presence:** Expand into new international markets by localizing games and marketing materials, resulting in a 30% increase in international sales within two years.
+- **Improve Customer Engagement:** Enhance customer engagement and loyalty by launching a Nintendo loyalty program, with a goal of enrolling one million members within the first year.
+- **Support Indie Developers:** Foster the indie gaming community by featuring and promoting a curated selection of indie games on the Nintendo eShop, resulting in a 15% increase in indie game sales.
+- **Data-Driven Decision-Making:** Implement a data analytics strategy to monitor marketing campaign performance and consumer behavior, with the objective of increasing marketing ROI by 10% through optimized marketing spend.
 
 
 
