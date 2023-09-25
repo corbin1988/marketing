@@ -190,8 +190,25 @@ A Situational Analysis, often referred to as a SWOT analysis, involves evaluatin
 
 5. **Regulatory Challenges:** Regulatory changes, such as those related to loot boxes or online privacy, can affect the gaming industry.
 
+## Marketing Strategy
 
+In this section, you take the things you've learned from your market research and use them to define your target audience, set measurable goals that align with your findings, and develop a budget for those goals.
 
+### Define Your Target Audience
 
+This is where you compile all of your market research to define:
 
+(Note: there will be more specifics about this in the market research section)
+
+- **Who** your competitors and target market (customers) are.
+- **Where** you will reach your target market.
+- **How** you will reach that target market.
+
+### Set measurable goals
+
+Once you understand how you want to reach your target market you will begin to define measurable goals for your advertising efforts. For example, let's say your target audiance uses Facebook a good goal could be: Purchase [x] amount of Facebook ads, specific to [y] demographic, in [z] region, over [period of time].
+
+### Develop a budget
+
+After you have specific goals you give the amount of money you want to spend on each goal. 
 
