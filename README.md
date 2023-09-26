@@ -1,4 +1,47 @@
+
+
 # Marketing For Developers
+
+# Table of Contents
+- [Marketing For Developers](#marketing-for-developers)
+- [Introduction](#introduction)
+- [Marketing Plan](#marketing-plan)
+  - [Marketing Plan Structure](#marketing-plan-structure)
+  - [Mission](#mission)
+    - [Mission Statement](#mission-statement)
+    - [Objectives](#objectives)
+    - [Examples of objectives categorized by focus](#examples-of-objectives-categorized-by-focus)
+    - [Nintendo Example Objectives](#nintendo-example-objectives)
+  - [Situational Analysis](#situational-analysis)
+    - [What is a Situational Analysis?](#what-is-a-situational-analysis)
+    - [Internal Factors: Strengths and Weaknesses](#internal-factors-strengths-and-weaknesses)
+    - [External Factors: Opportunities and Threats](#external-factors-opportunities-and-threats)
+    - [Example of SWOT analysis: Nintendo SWOT Analysis](#example-of-swot-analysis-nintendo-swot-analysis)
+  - [Marketing Strategy](#marketing-strategy)
+    - [Define Your Target Audience](#define-your-target-audience)
+    - [Set measurable goals](#set-measurable-goals)
+    - [Develop a budget](#develop-a-budget)
+  - [The Marketing Mix and the Four Ps](#the-marketing-mix-and-the-four-ps)
+    - [Four Ps of the Marketing Mix](#four-ps-of-the-marketing-mix)
+    - [How To Create Your Own Marketing Mix](#how-to-create-your-own-marketing-mix)
+    - [Example Nintendo's Four Ps](#example-nintendos-four-ps)
+  - [Implementation, Evaluation, and Control](#implementation-evaluation-and-control)
+- [Market Research](#market-research)
+  - [What is market research?](#what-is-market-research)
+  - [Why do market research?](#why-do-market-research)
+  - [Key Components of What Market Research Involves](#key-components-of-what-market-research-involves)
+  - [What you're trying to find out with your research](#what-youre-trying-to-find-out-with-your-research)
+    - [Who your customer is](#who-your-customer-is)
+    - [What product or service you'll be selling](#what-product-or-service-youll-be-selling)
+    - [Who is your competition?](#who-is-your-competition)
+    - [What is your target market?](#what-is-your-target-market)
+    - [What are your distribution channels?](#what-are-your-distribution-channels)
+    - [Pricing](#pricing)
+    - [Promotion and Selling](#promotion-and-selling)
+  - [Data Collection Methods](#data-collection-methods)
+    - [Primary data collection](#primary-data-collection)
+    - [Secondary data collection](#secondary-data-collection)
+
 
 # Introduction
 
