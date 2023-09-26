@@ -383,6 +383,19 @@ Key issues are:
 - Does your level of available capital or production capacities restrict your choice of distribution methods?
 - Are the ownership opportunities in the supply chain?
 
+### Pricing 
+
+The objective is to maximize profits while remaining competitive in the market place. Pricing can be based on either the cost price or market price (What the market will pay). Regarless of the pricing method used, it is critical to know all of your cost involved in delivery of your product or service to avoid possible under pricing operating losses. If the market will not support a price level sufficent to cover the cost, it will be neccessary to investigate whether the cost can be lowered or alternatively, it may be necessary to abandon your plans to proceed.
+
+Issues to consider are:
+
+- What control do you have over the product price (e.g. exclussive product, no competition, high market demand, etc.)?
+- What are competitor prices and how do they price therir products?
+- What price and sales volume are needed to achieve profit objectives?
+- Can you sell your product at different prices in different markets?
+- Can you maintain your prices over time and what do you expect to happen to competitors?
+- Are your prices quantity-sensitive?
+
 ## Data Collection Methods
 
 ### Primary data collection
