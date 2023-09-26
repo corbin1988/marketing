@@ -308,7 +308,7 @@ The major bennefits of conducting market research are:
 
 - **Decision Making:** Ultimately, market research provides data-driven insights that guide decision-making in areas such as product development, marketing campaigns, pricing strategies, and market expansion.
 
-## Type Of Data You Want To Collect
+## What you're trying to find out with your research
 
 ### Who your customer is:
 
@@ -327,6 +327,25 @@ Key issues to consider are:
 - Where do they buy. when, and how much do they buy?
 - What are the buyer's preferences and needs?
 - Are customers loyal? Can long term relationships be built?
+
+### What product or service you'll be selling
+
+An important aspect of market analysis is to ensure that the product or service meets the market (customers) needs. Product or service focus must be the customer.
+
+Issues to address are:
+
+**Your Products**
+
+- Are they unique, eye appealing?
+- Better designed. higher quality?
+- What sizes, any packaging?
+- Must you offer a guarantee?
+- What will your return policy be?
+- Must you stock parts for service?
+- Specifications: key features, relative to what prosepectives are buying.
+- What are the current trends, what stage of maturity is the product life cycle at?
+- What regulations apply to your product or service?
+- What packaging is required?
 
 ## Data Collection Methods
 
