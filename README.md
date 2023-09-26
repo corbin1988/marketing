@@ -371,6 +371,18 @@ Target market issues included:
 - What is the current dollar value or quantity of the product/service being sold into each segment of the market?
 - What social, technical, environmental or economic changes are taking place withinthe market and how will they impact sales?
 
+### What are your distribution channels?
+
+There may be many options for moving your product to the customer such as direct retail, wholesale, consignment, broker, etc. The method of distribution has important implications affecting your pricing structure, advertising message, cash clow, etc. You will want to choose the distribution method best suited for your product and where you want to be positioned in the marketplace.
+
+Key issues are:
+
+- What methods of distibution are best suited for your product?
+- What methods of distribution do your competitors use?
+- What are the cost relative to market coverage?
+- Does your level of available capital or production capacities restrict your choice of distribution methods?
+- Are the ownership opportunities in the supply chain?
+
 ## Data Collection Methods
 
 ### Primary data collection
