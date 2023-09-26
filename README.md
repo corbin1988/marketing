@@ -2,9 +2,9 @@
 
 # Introduction
 
-In the past decade, we've witnessed an incredible surge in internet companies and startups. Alongside this growth, a prevailing mindset of 'move fast, break things, gain traction (users), secure venture capital funding' emerged as the norm for starting new ventures. While this approach thrived in an era of low interest rates and abundant VC investments, times are changing, and we're now facing a new landscape. In this README, we are returning to the core principles of business by how to create a simple marketing plan and conduct basic market research, two essential steps for creating a business plan. 
+Over the past decade, we've witnessed an incredible surge in internet companies and startups. Alongside this growth, a prevailing mindset of 'move fast, break things, gain traction (users), secure venture capital funding' emerged as the norm for starting new ventures. While this approach thrived in an era of low interest rates and abundant VC investments, times are changing, and we're now facing a new landscape. In this README, we are returning to the core principles of business by showing you how to create a simple marketing plan and conduct basic market research, two essential steps for creating a business plan.
 
-Typically, when building a business plan, you start by conducting market research and then constructing a marketing plan based on that research. In this README, we'll be taking a different approach. We'll begin by explaining what a marketing plan is and what it contains to provide you with guidance and structure for conducting what you need during market research. After covering the essentials of a marketing plan, we will proceed to discuss how to conduct basic market research.
+Typically, when building a business plan, you start by conducting market research and then constructing a marketing plan based on that research. In this README, we'll be taking a different approach. We'll kick things off by providing an overview of what a marketing plan is and its essential components. This will serve as a foundational guide, helping you understand the structure you'll need when conducting your market research. After covering the essentials of a marketing plan, we will proceed to discuss how to conduct basic market research.
 
 **Disclaimer**
 
