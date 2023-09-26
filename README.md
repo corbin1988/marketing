@@ -347,6 +347,18 @@ Issues to address are:
 - What regulations apply to your product or service?
 - What packaging is required?
 
+## Who is your competition?
+
+Are there competitors that exist now and what new competitors are likely to enter the market? How will your product or service compare and what is the probable reaction of your competitors once you enter the market?
+
+Issues to consider are:
+
+- Who are your major competitors?
+- What share of the market do they have?
+- What are their strengths and weaknesses (e.g. quality, price, service, payment terms, location, reputation, etc.)?
+- How do you compare to your competitors and how will they react to your entry into the market?
+- What factors is there that could increase or reduce competition?
+
 ## Data Collection Methods
 
 ### Primary data collection
