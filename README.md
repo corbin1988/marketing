@@ -396,6 +396,18 @@ Issues to consider are:
 - Can you maintain your prices over time and what do you expect to happen to competitors?
 - Are your prices quantity-sensitive?
 
+### Promotion and Selling
+
+Promotion of your product or service and development of a promotion strategy is part of the market analysis. It is important to analyze what are the best methods of making your customer aware and what message will motivate them to buy. From the promotion strategy the advertising budget and overall sales plan are then developed.
+
+Items to consider:
+
+- What media of advertising and sales do your competitors use?
+- What media of advertising is best suited to reach your customer? Primary and secondary madia. (e.g. Primary - newspaper, radio, internet; Secondary - flyers and trade shows)
+- What sales tools and training will your staff need?
+- What image are you attempting to build through promotion?
+- Packaging?
+
 ## Data Collection Methods
 
 ### Primary data collection
