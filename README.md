@@ -347,7 +347,7 @@ Issues to address are:
 - What regulations apply to your product or service?
 - What packaging is required?
 
-## Who is your competition?
+### Who is your competition?
 
 Are there competitors that exist now and what new competitors are likely to enter the market? How will your product or service compare and what is the probable reaction of your competitors once you enter the market?
 
@@ -358,6 +358,18 @@ Issues to consider are:
 - What are their strengths and weaknesses (e.g. quality, price, service, payment terms, location, reputation, etc.)?
 - How do you compare to your competitors and how will they react to your entry into the market?
 - What factors is there that could increase or reduce competition?
+
+### What is your target market?
+
+Accurate identification and analysis of the target market enables you to develop an effective overall marketing strategy. The information will assist in determining business size  (output requirements), distrubution channels, pricing, promotion strategy, and other marketing decisions.
+
+Target market issues included:
+
+- What is the overall market size? Number of potential customers and physical boundaries?
+- Which segment of the market is the most attractive in terms of future growth potential, ease of entry, competition, profitpotential, and overall risk?
+- How do products generally get to the customer?
+- What is the current dollar value or quantity of the product/service being sold into each segment of the market?
+- What social, technical, environmental or economic changes are taking place withinthe market and how will they impact sales?
 
 ## Data Collection Methods
 
