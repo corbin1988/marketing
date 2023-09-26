@@ -212,3 +212,53 @@ Once you understand how you want to reach your target market you will begin to d
 
 After you have specific goals you give the amount of money you want to spend on each goal. 
 
+## The Marketing Mix and the Four Ps
+
+The marketing mix, commonly known as the 'Four Ps,' serves as a framework for businesses to create and execute successful marketing strategies. These Four Ps constitute the controllable elements that allow a company to shape customer purchasing decisions and attain its marketing objectives. They guide how you communicate the value of your product to customers, emphasizing the importance of positioning your product and highlighting its competitive advantages. It's crucial to establish clarity regarding your marketing focus—is it centered on convenience or quality? Additionally, understanding your target audience, those most likely to purchase your product or service, is essential.
+
+### Four Ps of the Marketing Mix
+
+- **Product:** This refers to the tangible or intangible goods or services that a company offers to meet the needs and wants of its target market. Companies must consider factors like product features, design, quality, branding, and packaging when designing their products.
+
+- **Price:** Price represents the amount of money customers are willing to pay for a product or service. Pricing strategies can include setting prices lower than competitors (penetration pricing), matching competitors' prices (competitive pricing), or pricing products higher to emphasize quality or exclusivity (premium pricing). Pricing decisions also involve considerations like discounts, promotions, and pricing models.
+
+- **Place (Distribution):** Place refers to the channels and methods a company uses to make its products or services available to customers. This includes decisions about distribution channels (e.g., online sales, physical stores, wholesalers, retailers), logistics, inventory management, and ensuring products are accessible to the target market.
+
+- **Promotion:** Promotion encompasses all the activities a company uses to communicate with its target audience and persuade them to purchase its products or services. This includes advertising, public relations, sales promotions, social media marketing, content marketing, and other forms of communication. The goal is to create awareness, generate interest, and ultimately drive sales.
+
+### How To Create Your Own Marketing Mix
+
+As always your decsions from your Four Ps should come from market research. Here's a nice chart I found to fill out the Four Ps of your product/service:
+
+<img width="696" alt="Four_Ps" src="https://github.com/corbin1988/marketing/assets/37128501/8c1c46f1-f376-45a0-9d2f-365ba38d8a6b">
+
+### Example Nintendo's Four Ps
+
+**Product:**
+Nintendo offers a wide range of gaming products, including popular consoles like the Nintendo Switch, Nintendo 3DS, and classic consoles like the Super Nintendo Entertainment System (SNES) Classic Edition. They also develop and publish an extensive library of video games featuring iconic franchises such as Super Mario, The Legend of Zelda, Pokémon, and more. Nintendo's product strategy focuses on innovation, unique gameplay experiences, and the appeal of their exclusive titles.
+
+**Price:**
+Nintendo employs a pricing strategy that often positions its consoles and games as offering good value for the gaming experience provided. They have both premium-priced consoles with advanced features and more affordable options to cater to a diverse consumer base. Game pricing typically falls within industry norms, and they occasionally offer bundles and discounts to incentivize purchases.
+
+**Place (Distribution):**
+Nintendo products are distributed through various channels, including:
+
+- **Retailers:** Nintendo consoles, games, and accessories are sold through brick-and-mortar retailers such as electronics stores, gaming specialty shops, and big-box retailers.
+
+- **Nintendo eShop:** Nintendo's online marketplace allows users to purchase and download digital games and content directly to their consoles.
+
+- **Nintendo's Website:** Customers can buy products and access information on Nintendo's official website.
+
+- **Third-party Online Stores:** Games and consoles are also available through third-party online retailers like Amazon and Best Buy.
+
+**Promotion:**
+Nintendo employs a multifaceted promotion strategy to create awareness and engage with its audience:
+
+- **Advertising:** They run advertising campaigns on various media, including television, online platforms, and social media, to showcase new games and console features.
+
+- **Public Relations:** Nintendo actively engages with the gaming press and conducts events like Nintendo Direct to announce and promote upcoming products.
+
+- **Social Media:** Nintendo maintains a strong presence on platforms like Twitter, YouTube, and Instagram to share game trailers, news, and interact with fans.
+
+- **Events and Conventions:** Nintendo participates in major gaming events like E3 (Electronic Entertainment Expo) to showcase their latest products and interact with the gaming community.
+
