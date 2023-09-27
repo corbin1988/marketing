@@ -41,6 +41,7 @@
   - [Data Collection Methods](#data-collection-methods)
     - [Primary data collection](#primary-data-collection)
     - [Secondary data collection](#secondary-data-collection)
+  - [How To Do Basic Market Research](#how-to-do-basic-market-research)
 
 
 # Introduction
@@ -530,7 +531,52 @@ Secondary data consists of information which has been gathered by someone else a
 
 - **Publicly Available Financial Reports:** Review publicly available financial reports of companies within your industry to gain insights into their financial performance and market strategies.
 
+## How To Do Basic Market Research
+
+Start with secondary market research. Since you're developing a game, consider exploring various online platforms and communities tailored to the genre of your intended game. These may include Discord servers, subreddits, Facebook groups, YouTube channels, esports events, itch.io comment sections, Steam forums, and any other social media platforms where gamers gather. Use the questions in the key issues in the [“What you’re try to find out with your research section”](https://github.com/corbin1988/marketing/blob/main/README.md#what-youre-trying-to-find-out-with-your-research) to structure your research. For example:
+
+**Product**
+
+- Game mechanics players enjoy
+- Common complaints and frustrations
+- Themes and storylines they like
+- Art styles
+
+**Competitors**
+
+- Who has the biggest social media followings
+- Who have the most sales on Steam
+- What complaints they have about the game (bad graphics, lag, slow story, etc)
+
+**Target Market**
+
+- Size of the market
+- Growth potential
+- Popularity of game genre
+
+**Distribution Channels**
+
+- Steam
+- itch
+- Web Game
+- Physical copy
+- Retail store (It’s worth noting that many convenience, grocery, and retail stores sell pay to play gift cards so people without credit cards can play)
+- Publishers
+
+**Pricing**
+
+- Who makes the purchasing decisions? (Player or players parent)
+- Free game that makes money on ads
+- What price your competitors are charging
+
+**Promotion and Selling**
+
+- Are you going to do a Kickstarter? If so look at how those have went for companies in your genre.
+- What made people buy your competitor game
+- What mediums did your competitors use.
 
 
+
+  
 
 
